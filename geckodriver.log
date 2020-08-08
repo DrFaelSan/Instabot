@@ -1,0 +1,282 @@
+1596903308764	geckodriver	INFO	Listening on 127.0.0.1:56875
+1596903311843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofileu3aU89"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596903318545	Marionette	INFO	Listening on port 56883
+1596903318932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596903645873	Marionette	INFO	Stopped listening on port 56883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596903649210	geckodriver	INFO	Listening on 127.0.0.1:56967
+1596903652237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofile1xwp9C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596903655332	Marionette	INFO	Listening on port 56975
+1596903655370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596903691258	Marionette	INFO	Stopped listening on port 56971596903691325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofileNqV3Ss"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596903694550	Marionette	INFO	Listening on port 57030
+1596903694947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596903711917	Marionette	INFO	Stopped listening on port 57030
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596903962531	geckodriver	INFO	Listening on 127.0.0.1:57087
+1596903965552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofileFrbak7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596903969032	Marionette	INFO	Listening on port 57095
+1596903969168	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1596903981937	Marionette	INFO	Stopped listening on port 57095
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596904285111	geckodriver	INFO	Listening on 127.0.0.1:57162
+1596904288139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofileVxmtlS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596904291557	Marionette	INFO	Listening on port 57170
+1596904291771	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1596904308150	Marionette	INFO	Stopped listening on port 57170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596905666605	geckodriver	INFO	Listening on 127.0.0.1:57294
+1596905669634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofile664Lk0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596905672672	Marionette	INFO	Listening on port 57302
+1596905672752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596905827811	Marionette	INFO	Stopped listening on port 57302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileU9FjyX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596905830664	Marionette	INFO	Listening on port 57380
+1596905830998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7696, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1596906020549	Marionette	INFO	Stopped listening on port 57380
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+he: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596906021483	Marionette	INFO	Listening on port 57454
+1596906021937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596906105295	Marionette	INFO	Stopped listening on port 57454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596906106085	geckodriver	INFO	Listening on 127.0.0.1:57519
+1596906109141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofilemx5vtN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596906112089	Marionette	INFO	Listening on port 57527
+1596906112287	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596906503787	Marionette	INFO	Stopped listening on port 57527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596906515655	geckodriver	INFO	Listening on 127.0.0.1:57625
+1596906518687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofileg5XeN0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596906521803	Marionette	INFO	Listening on port 57633
+1596906521841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596906524660	Marionette	INFO	Stopped listening on port 57633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596906583447	geckodriver	INFO	Listening on 127.0.0.1:57668
+1596906586503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofilevMYuQZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596906589629	Marionette	INFO	Listening on port 57676
+1596906589655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596906702225	geckodriver	INFO	Listening on 127.0.0.1:57734
+1596906705264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofileScACOV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596906708485	Marionette	INFO	Listening on port 57743
+1596906708906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 353: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 353: NS_ERROR_NOT_AVAILABLE: 
+console.error: "Error sending event: display-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33
+form@resource://devtools/server/actors/inspector/node.js:262:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33
+write@resource://devtools/shared/protocol/types.js:220:16
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:659:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:315:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: "Error sending event: scrollable-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33
+form@resource://devtools/server/actors/inspector/node.js:262:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33
+write@resource://devtools/shared/protocol/types.js:220:16
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:663:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:315:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: (new TypeError("can't convert undefined to object", "resource://devtools/client/inspector/markup/views/markup-container.js", 761))
+TypeError: can't convert undefined to object: update@resource://devtools/client/inspector/markup/views/markup-container.js:761:42
+_onWalkerMutations@resource://devtools/client/inspector/markup/markup.js:1442:19
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+1596906965270	geckodriver	INFO	Listening on 127.0.0.1:57873
+1596906968342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofileB7jRVK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596906971296	Marionette	INFO	Listening on port 57881
+1596906971477	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1596906979746	Marionette	INFO	Stopped listening on port 57881
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596907111790	geckodriver	INFO	Listening on 127.0.0.1:57930
+1596907114870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofilefJqccX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596907118403	Marionette	INFO	Listening on port 57938
+1596907118516	Marionette	WARN	TLS certificate errors will be ignored for this session
+Extension error: TypeError: chrome.app is undefined moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/katalon/background.js 54
+[[Exception stack
+@moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/katalon/background.js:54:31
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:620:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:823:18
+]]
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/selenium-api.js, line 3258: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/utils.js, line 6220: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/selenium-api.js, line 3258: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/utils.js, line 6220: unreachable code after return statement
+JavaScript error: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/jquery.simulate.js, line 331: ReferenceError: jQuery is not defined
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/selenium-api.js, line 3258: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/utils.js, line 6220: unreachable code after return statement
+JavaScript error: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/jquery.simulate.js, line 331: ReferenceError: jQuery is not defined
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/selenium-api.js, line 3258: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/utils.js, line 6220: unreachable code after return statement
+JavaScript error: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/jquery.simulate.js, line 331: ReferenceError: jQuery is not defined
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/utils.js, line 6220: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/selenium-api.js, line 3258: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/utils.js, line 6220: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/selenium-api.js, line 3258: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/selenium-api.js, line 3258: unreachable code after return statement
+JavaScript warning: moz-extension://a29356a9-63ae-4c57-b3bd-d8411414ca0d/content/utils.js, line 6220: unreachable code after return statement
+1596907771597	Marionette	INFO	Stopped listening on port 57938
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596915997209	geckodriver	INFO	Listening on 127.0.0.1:58873
+1596916000249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kauane\\AppData\\Local\\Temp\\rust_mozprofilebAkycU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596916003220	Marionette	INFO	Listening on port 58884
+1596916003434	Marionette	WARN	TLS certificate errors will be ignored for this session
